@@ -1,8 +1,18 @@
-# sms
+# Student Management System
 
-A new Flutter project.
+Collaborated with a team to develop a faculty system for course registration, attendance, quizzes, marks, and 
+payments.
+Worked closely with backend developers to design and integrate APIs using PHP Laravel.
+Demonstrated teamwork, communication, and problem-solving skills
+## Screenshots
 
-## Getting Started
+![Screenshot 1](images/screenshot1.png)
+Caption for Screenshot 1.
+
+![Screenshot 2](images/screenshot2.png)
+Caption for Screenshot 2.
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
