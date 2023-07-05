@@ -6,7 +6,7 @@ Worked closely with backend developers to design and integrate APIs using PHP La
 Demonstrated teamwork, communication, and problem-solving skills
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1]([images/screenshot1.png](https://github.com/Omaar-Mohamed/faculty_management_flutter/blob/master/assets/images/oop.png))
 Caption for Screenshot 1.
 
 ![Screenshot 2](images/screenshot2.png)
