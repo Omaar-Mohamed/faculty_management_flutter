@@ -5,12 +5,21 @@ payments.
 Worked closely with backend developers to design and integrate APIs using PHP Laravel.
 Demonstrated teamwork, communication, and problem-solving skills
 ## Screenshots
+![CsZFlth8kASvYvb_r5y_S5MKZ_F1yXjMT4COnAXASM8=_plaintext_638229777087218894](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/b9c9f76e-fa4d-4341-bab3-cdddacd37989)
+onboard
+![WhatsApp Image 2023-06-22 at 00 33 50](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/326b25f7-736f-48b9-a2a7-6ae16fcc826a)
+prof take attendance
+![fmjN0_S7PSg3W-gQz_b0tvg3slh_h38In3FxzAQrObo=_plaintext_638229777062914220](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/db3d2037-784d-44d2-81b9-906513692c8b)
+material lecture
+![g1TkOmEyqdPgfDe076AKVSjtZkVHGEIr5-9_g-529i8=_plaintext_638229777037569041](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/be37ffa4-5166-42f8-a099-c77be9463d9b)
+community for course
+![UX34GojBxfuW-Gw3T9W_sVl4Fsn28VuNOhM1l7sEdVc=_plaintext_638229777040969014](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/448e6b59-2597-4b90-aaea-6dc085cad409)
+quiz
 
-![Screenshot 1]([images/screenshot1.png](https://github.com/Omaar-Mohamed/faculty_management_flutter/blob/master/assets/images/oop.png))
-Caption for Screenshot 1.
+For more screenshots, [click here](https://www.upwork.com/freelancers/~01e96689c0e553d93f?p=1676334968421072896) to visit the "more_images" folder.
 
-![Screenshot 2](images/screenshot2.png)
-Caption for Screenshot 2.
+
+
 
 ### Getting Started
 
