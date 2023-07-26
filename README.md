@@ -6,18 +6,17 @@ Worked closely with backend developers to design and integrate APIs using PHP La
 Demonstrated teamwork, communication, and problem-solving skills
 ## Screenshots
 ![image](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/2b1515d8-bc9f-4792-a312-cb4225046977)
-
-
-![CsZFlth8kASvYvb_r5y_S5MKZ_F1yXjMT4COnAXASM8=_plaintext_638229777087218894](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/b9c9f76e-fa4d-4341-bab3-cdddacd37989)
 onboard
-![WhatsApp Image 2023-06-22 at 00 33 50](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/326b25f7-736f-48b9-a2a7-6ae16fcc826a)
+![image](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/71b572b9-4b79-483f-857b-8c6932dcc7c4)
 prof take attendance
-![fmjN0_S7PSg3W-gQz_b0tvg3slh_h38In3FxzAQrObo=_plaintext_638229777062914220](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/db3d2037-784d-44d2-81b9-906513692c8b)
+![image](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/309274c7-7217-438d-82fd-d0aeb22b8666)
 material lecture
-![g1TkOmEyqdPgfDe076AKVSjtZkVHGEIr5-9_g-529i8=_plaintext_638229777037569041](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/be37ffa4-5166-42f8-a099-c77be9463d9b)
+![image](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/a7c27359-7d27-458e-9e6a-27860fa66256)
 community for course
-![UX34GojBxfuW-Gw3T9W_sVl4Fsn28VuNOhM1l7sEdVc=_plaintext_638229777040969014](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/448e6b59-2597-4b90-aaea-6dc085cad409)
+![image](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/8c5153b6-122b-4f78-9a71-cb10f5d72260)
 quiz
+![image](https://github.com/Omaar-Mohamed/faculty_management_flutter/assets/102541769/0481880a-0210-4d6c-afe9-04bca5730234)
+students marks
 
 For more screenshots, [click here](https://www.upwork.com/freelancers/~01e96689c0e553d93f?p=1676334968421072896) to visit the "more_images" folder.
 
